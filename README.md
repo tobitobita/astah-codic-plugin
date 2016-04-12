@@ -11,7 +11,7 @@ astah-codic-pluginはcodicのREST APIを使用して日本語 → 英語の翻�
 astah* professional、UML、community のバージョン7.0以降に対応しています。
 
 ## インストール方法
-0. プラグインファイルをダウンロードします。
+0. [リリースページ](https://github.com/tobitobita/astah-codic-plugin/releases)より、プラグインファイルをダウンロードします。
 0. メニューより、[ヘルプ] - [プラグイン一覧] をクリックします。
 0. 表示されたウィンドウのインストールを押し、ダウンロードしたファイルを選択してください。
 0. ウィンドウを閉じ、astah*を再起動します。
