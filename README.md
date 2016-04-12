@@ -23,7 +23,7 @@ astah* professional、UML、community のバージョン7.0以降に対応して
 0. 「設定」ボタンを押し、設定画面を表示します。
 0. codicのアクセストークンを設定します。
 0. 検証ボタンを押すとプロジェクト一覧を取得します。
-0. その後、プロジェクトを選択し保存してください。
+0. その後、プロジェクトを選択しOKを押してください。
 
 ![設定](https://s3.amazonaws.com/tobi_temp/setting_window.png "設定")
 
