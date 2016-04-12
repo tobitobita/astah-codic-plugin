@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<extension point="com.change_vision.astah.ui.actionSets">
+		<actionSet id="dsk.codic.astah.plugin.actionSet">
+			<action label="codicを使用する"
+					class="dsk.codic.astah.plugin.TemplateAction"
+					menubarPath="tool/system_property"
+					id="dsk.codic.astah.plugin.TemplateAction">
+			</action>
+		</actionSet>
+	</extension>
+</plugin>
